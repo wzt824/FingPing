@@ -1,0 +1,242 @@
+.tianzi {
+  width: 662px;
+  height: 35px;
+  float: left;
+  margin: 15px 0 0 150px;
+  background: url(../images/spiritImg.png) no-repeat; }
+  .tianzi ul li {
+    float: left;
+    text-align: center;
+    width: 218px;
+    height: 35px;
+    line-height: 35px;
+    color: #000; }
+    .tianzi ul li:nth-child(1) {
+      color: #fff; }
+
+.sectionBox {
+  width: 1000px;
+  margin: 0 auto; }
+  .sectionBox .myCartTit {
+    height: 40px;
+    font-size: 18px;
+    color: #e8393c;
+    line-height: 40px; }
+  .sectionBox .tableTit {
+    width: 998px;
+    height: 32px;
+    border: 1px solid #eaeaea;
+    margin: 10px 0; }
+    .sectionBox .tableTit .d1 {
+      float: left;
+      height: 32px;
+      line-height: 32px;
+      color: #999999;
+      font-size: 12px;
+      text-align: center; }
+      .sectionBox .tableTit .d1:nth-child(1) {
+        width: 140px;
+        font-size: 14px;
+        text-align: left; }
+        .sectionBox .tableTit .d1:nth-child(1) input {
+          margin: 0 25px;
+          vertical-align: middle;
+          width: 14px;
+          height: 14px; }
+        .sectionBox .tableTit .d1:nth-child(1) label {
+          vertical-align: middle; }
+      .sectionBox .tableTit .d1:nth-child(2) {
+        width: 360px; }
+      .sectionBox .tableTit .d1:nth-child(3) {
+        width: 80px; }
+      .sectionBox .tableTit .d1:nth-child(4) {
+        width: 150px; }
+      .sectionBox .tableTit .d1:nth-child(5) {
+        width: 110px; }
+      .sectionBox .tableTit .d1:nth-child(6) {
+        width: 155px; }
+  .sectionBox .cartCon {
+    width: 998px;
+    border: 1px solid #eaeaea;
+    border-bottom-color: transparent; }
+    .sectionBox .cartCon li {
+      height: 124px;
+      border-bottom: 1px solid #eaeaea;
+      background: #fffbf0;
+      transition: all .5s; }
+      .sectionBox .cartCon li .lid1 {
+        width: 50px;
+        height: 124px;
+        line-height: 124px;
+        float: left; }
+        .sectionBox .cartCon li .lid1 input {
+          margin-left: 20px;
+          font-size: 14px;
+          cursor: pointer; }
+      .sectionBox .cartCon li .shoppingImg {
+        border: 1px solid #eaeaea;
+        width: 78px;
+        height: 78px;
+        margin: 22px 0;
+        float: left; }
+        .sectionBox .cartCon li .shoppingImg img {
+          width: 78px;
+          height: 78px; }
+      .sectionBox .cartCon li .shoppingInfo {
+        width: 340px;
+        height: 84px;
+        padding: 20px 0;
+        margin: 0 20px;
+        float: left; }
+      .sectionBox .cartCon li .onePrice {
+        float: left;
+        width: 70px;
+        height: 124px;
+        text-align: center;
+        line-height: 124px; }
+      .sectionBox .cartCon li .number {
+        width: 150px;
+        height: 124px;
+        float: left;
+        text-align: center; }
+        .sectionBox .cartCon li .number .numberCon {
+          margin: 52px 30px;
+          width: 90px;
+          height: 20px;
+          position: relative; }
+          .sectionBox .cartCon li .number .numberCon .values {
+            width: 90px;
+            height: 20px;
+            border: 1px solid #eee;
+            box-sizing: border-box;
+            text-align: center;
+            outline: none; }
+          .sectionBox .cartCon li .number .numberCon span {
+            display: block;
+            width: 20px;
+            height: 20px;
+            position: absolute;
+            top: 2px;
+            cursor: pointer; }
+            .sectionBox .cartCon li .number .numberCon span:nth-of-type(1) {
+              left: 0px;
+              border-right: 1px solid #eee; }
+            .sectionBox .cartCon li .number .numberCon span:nth-of-type(2) {
+              right: 0px;
+              border-left: 1px solid #eee; }
+      .sectionBox .cartCon li .jinE {
+        width: 115px;
+        height: 124px;
+        float: left;
+        text-align: center;
+        line-height: 124px;
+        color: #ff4400; }
+      .sectionBox .cartCon li .yhjg {
+        display: none;
+        float: left; }
+      .sectionBox .cartCon li .operate {
+        width: 150px;
+        height: 124px;
+        float: left;
+        text-align: center;
+        line-height: 124px;
+        cursor: pointer; }
+  .sectionBox .goPay {
+    width: 998px;
+    height: 76px;
+    border: 1px solid #eaeaea;
+    margin: 10px 0;
+    font-size: 12px;
+    background: #f8f8f8; }
+    .sectionBox .goPay .gP1 {
+      width: 300px;
+      height: 76px;
+      float: left; }
+      .sectionBox .goPay .gP1 input {
+        width: 14px;
+        height: 14px;
+        float: left;
+        margin: 31px 14px; }
+      .sectionBox .goPay .gP1 label {
+        float: left;
+        width: 36px;
+        height: 76px;
+        line-height: 76px; }
+      .sectionBox .goPay .gP1 p {
+        float: left;
+        width: 220px;
+        height: 24px;
+        margin: 26px 0;
+        line-height: 24px;
+        text-align: left;
+        background: url(../images/deleteIcon.png) no-repeat left center; }
+        .sectionBox .goPay .gP1 p span {
+          cursor: pointer;
+          margin: 0 20px; }
+          .sectionBox .goPay .gP1 p span:hover {
+            color: #f60; }
+        .sectionBox .goPay .gP1 p b {
+          color: red;
+          font-size: 16px; }
+    .sectionBox .goPay .gP2 {
+      width: 575px;
+      height: 76px;
+      float: right; }
+      .sectionBox .goPay .gP2 p {
+        width: 145px;
+        height: 56px;
+        float: left;
+        padding: 10px 0;
+        line-height: 28px;
+        text-align: center; }
+        .sectionBox .goPay .gP2 p span {
+          font-size: 14px;
+          color: red; }
+      .sectionBox .goPay .gP2 .pp2 {
+        border-left: 1px solid #eaeaea;
+        border-right: 1px solid #eaeaea;
+        position: relative; }
+        .sectionBox .goPay .gP2 .pp2::before {
+          content: "";
+          display: block;
+          position: absolute;
+          width: 70px;
+          height: 70px;
+          background: url(../images/reduce.jpg) no-repeat center center;
+          top: 0px;
+          left: -35px; }
+        .sectionBox .goPay .gP2 .pp2::after {
+          content: "";
+          display: block;
+          position: absolute;
+          width: 70px;
+          height: 70px;
+          background: url(../images/equal.jpg) no-repeat center center;
+          top: 0px;
+          right: -35px; }
+      .sectionBox .goPay .gP2 a {
+        width: 120px;
+        height: 76px;
+        background: #e50007;
+        float: right;
+        font-size: 18px;
+        line-height: 76px;
+        text-align: center;
+        color: #fff; }
+  .sectionBox .shoppingHistory {
+    padding: 20px 0; }
+    .sectionBox .shoppingHistory h3 {
+      height: 30px;
+      line-height: 30px;
+      color: #999999; }
+    .sectionBox .shoppingHistory .historyBox {
+      overflow: hidden; }
+      .sectionBox .shoppingHistory .historyBox .box1 {
+        float: left;
+        width: 240px;
+        margin: 0 5px; }
+        .sectionBox .shoppingHistory .historyBox .box1 img {
+          width: 249px; }
+        .sectionBox .shoppingHistory .historyBox .box1 p {
+          font-size: 14px;
+          color: #999999; }

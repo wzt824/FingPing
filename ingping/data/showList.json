@@ -1,0 +1,268 @@
+{
+    "showList":[
+        {
+            "em":"1F",
+            "h3":"录音编曲",
+            "showListBigImg":"images/showListBigImg1.jpg",
+            "otherImg":[
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg1.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg2.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg3.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg4.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg5.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg6.jpg"
+                }
+            ],
+			"brand":["images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif","images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif"]
+		},
+		{
+            "em":"2F",
+            "h3":"网络主播",
+            "showListBigImg":"images/showListBigImg2.jpg",
+            "otherImg":[
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg7.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg8.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg9.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg10.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg11.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg12.jpg"
+                }
+            ],
+			"brand":["images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif","images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif"]
+		},
+		{
+            "em":"3F",
+            "h3":"家庭KTV",
+            "showListBigImg":"images/showListBigImg3.jpg",
+            "otherImg":[
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg13.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg14.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg15.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg16.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg17.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg18.jpg"
+                }
+            ],
+			"brand":["images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif","images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif"]
+		},
+		{
+            "em":"4F",
+            "h3":"吉他乐器",
+            "showListBigImg":"images/showListBigImg4.jpg",
+            "otherImg":[
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg19.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg20.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg21.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg22.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg23.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg24.jpg"
+                }
+            ],
+			"brand":["images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif","images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif"]
+		},
+		{
+            "em":"5F",
+            "h3":"影视录音",
+            "showListBigImg":"images/showListBigImg5.jpg",
+            "otherImg":[
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg25.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg26.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg27.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg28.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg29.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg30.jpg"
+                }
+            ],
+			"brand":["images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif","images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif"]
+		},
+		{
+            "em":"6F",
+            "h3":"其他应用",
+            "showListBigImg":"images/showListBigImg6.jpg",
+            "otherImg":[
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg31.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg32.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg33.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg34.png"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg35.jpg"
+                },
+                {
+                    "p1":"颜值与性能兼具 操作简单",
+                    "p2":"高性价比套装推荐",
+                    "price":"￥ 2599",
+                    "img":"images/showListImg36.jpg"
+                }
+            ],
+			"brand":["images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif","images/brand1.gif","images/brand2.gif","images/brand3.gif","images/brand4.gif","images/brand5.gif"]
+        }
+    ]
+}

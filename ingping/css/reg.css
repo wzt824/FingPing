@@ -1,0 +1,189 @@
+@charset "utf-8";
+		/* 初始化 */
+body,p,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,td,input,select,option,textarea,fieldset{
+	margin:0;
+	padding:0;
+}
+body{
+    font-family: "微软雅黑",Arial;
+    background-color:#f9f9f9;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration:none;
+}
+        /* header */
+.headerBox{
+    width: 100%;
+    height: 120px;
+    background-color: #f9f9f9;
+}
+.header{
+    width: 1200px;
+    height: 120px;
+    margin: 0 auto;
+    /* border: 1px solid #f90; */
+}
+.header .tit{
+    float: left;
+    margin: 10px 0 0 10px;
+}
+.header .headerRight{
+    /* width: 800px; */
+    float: left;
+    padding-left: 50px;
+}
+.headerRight .warn{
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    font-size: 12px;
+    color: #6c6c6c;
+    border: 1px solid #ffb4a8;
+    background-color: #fef2f2;
+    margin: 20px 0;
+}
+.headerRight ul{
+    margin-left: 340px;
+    overflow: hidden;
+}
+.header ul Li{
+    float: left;
+    color: #e0e0e0;
+    line-height:40px;
+    height: 40px;
+}
+.sectionBox{
+    width: 100%;
+    background-color: #0194e2;
+}
+.section{
+    width: 100%;
+    height: 620px;
+    margin: 0 auto;
+    background: #0094e2;
+	overflow: hidden;
+	transform-style: preserve-3d;
+}
+.section .regCon{
+	width: 380px;
+	height: 380px;
+	margin: 50px auto;
+	text-align: center;
+}
+.regCon h3{
+	font-size: 20px;
+	color: #FFFFFF;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+.regCon .formDiv{
+	background: #FFFFFF;
+	/* width: 100%; */
+	padding: 10px 20px;
+}
+.regCon .titSign{
+	height: 50px;
+	line-height: 50px;
+}
+.regCon .username,.regCon .userpass{
+	width: 310px;
+	height: 25px;
+	padding: 10px;
+	border: 1px solid #e5e5e5;
+	margin: 10px 0;
+}
+.next,.goLogin{
+	width: 310px;
+	height: 45px;
+	line-height: 45px;
+	margin: 10px;
+	border-radius: 4px;
+}
+.next{
+	background: #dfdfdf;
+	border: 0;
+	color: #ffffff;
+}
+.goLogin{
+	background: #FFFFFF;
+	border: 1px solid #e4e4e4;
+	color: #7b7b7b;
+	display: block;
+	text-align: center;
+}
+input::-webkit-input-placeholder{
+	color: #bdc3c3;
+}
+.checkBox{
+	width: 325px;
+	height: 40px;
+	background: #eee;
+	margin: 10px auto;
+	border-radius: 2px;
+	position: relative;
+	border: 1px solid #CCCCCC;
+}
+#sliderDiv{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 40px;
+	height: 40px;
+	background: url(../images/sliderDivBg.jpg) no-repeat;
+	background-size: 40px 40px;
+	cursor: move;
+	z-index: 2;
+}
+#colorDiv{
+	width: 0px;
+	height: 40px;
+	background: rgb(120,193,64);
+	line-height: 40px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+.textBg{
+	height: 40px;
+	line-height: 40px;
+	color: #999;
+	opacity: 1;
+	transition: all .8s;
+}
+.hint{
+	color: red;
+	font-size: 12px;
+}
+
+
+
+.footerBox{
+    background: #f9f9f9;
+    width: 100%;
+}
+.footer{
+    width: 1200px;
+    height: 180px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 12px;
+    color: #999999;
+}
+.footer p{
+    margin-top: 15px;
+    text-align: center;
+    height: 36px;
+    line-height: 36px;
+}
+.footer p a{
+    color: #999999;
+}
+.footer div span{
+    height: 30px;
+    line-height: 30px;
+}

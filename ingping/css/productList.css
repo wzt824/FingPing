@@ -1,0 +1,208 @@
+@charset "UTF-8";
+.sectionBox {
+  width: 1200px;
+  margin: 0 auto; }
+  .sectionBox .productTit {
+    margin-top: 30px;
+    height: 35px;
+    padding: 5px;
+    line-height: 35px;
+    background: #f5f5f5;
+    font-weight: 900;
+    color: #f60;
+    text-indent: 50px; }
+  .sectionBox .hotProduct {
+    background: #f5f5f5;
+    margin: 20px 0 0; }
+    .sectionBox .hotProduct::after {
+      display: block;
+      content: "";
+      visibility: hidden;
+      clear: both;
+      height: 0;
+      overflow: hidden; }
+    .sectionBox .hotProduct .hotTit {
+      width: 120px;
+      height: 160px;
+      float: left; }
+      .sectionBox .hotProduct .hotTit .productLabel {
+        margin: 0 auto;
+        width: 0px;
+        height: 40px;
+        border-width: 10px 25px 15px;
+        border-color: #f60;
+        border-style: solid;
+        border-bottom-color: transparent; }
+        .sectionBox .hotProduct .hotTit .productLabel::before {
+          content: "热卖促销";
+          display: block;
+          font-size: 12px;
+          width: 24px;
+          color: #fff;
+          position: relative;
+          left: -12px;
+          top: 0px; }
+    .sectionBox .hotProduct .hotListBox {
+      width: 1080px;
+      float: left; }
+      .sectionBox .hotProduct .hotListBox .productModule {
+        width: 320px;
+        height: 140px;
+        margin: 10px 20px;
+        background: #ffffff;
+        float: left; }
+        .sectionBox .hotProduct .hotListBox .productModule .productModuleImg {
+          float: left;
+          width: 100px;
+          height: 120px;
+          padding: 10px 0; }
+          .sectionBox .hotProduct .hotListBox .productModule .productModuleImg img {
+            width: 100px;
+            height: 120px; }
+        .sectionBox .hotProduct .hotListBox .productModule .productModuleInfo {
+          float: left;
+          width: 200px;
+          height: 140px; }
+          .sectionBox .hotProduct .hotListBox .productModule .productModuleInfo p {
+            height: 40px;
+            line-height: 40px;
+            padding-left: 20px; }
+          .sectionBox .hotProduct .hotListBox .productModule .productModuleInfo .infoName {
+            height: 50px;
+            line-height: 25px;
+            font-size: 12px;
+            color: #333; }
+          .sectionBox .hotProduct .hotListBox .productModule .productModuleInfo .infoPrice {
+            height: 50px;
+            color: #f60;
+            line-height: 50px;
+            font-size: 20px; }
+          .sectionBox .hotProduct .hotListBox .productModule .productModuleInfo .infoBuy {
+            color: #fff;
+            background: #f60;
+            font-size: 12px;
+            padding: 5px; }
+  .sectionBox .productListMain {
+    width: 1200px;
+    margin: 20px 0; }
+    .sectionBox .productListMain .rank {
+      width: 198px;
+      float: left;
+      border: 1px solid #999; }
+      .sectionBox .productListMain .rank h5 {
+        height: 40px;
+        line-height: 40px;
+        font-weight: 100;
+        text-indent: 20px;
+        background: #eee; }
+      .sectionBox .productListMain .rank .proNiuB {
+        height: 100px; }
+        .sectionBox .productListMain .rank .proNiuB a {
+          float: left; }
+          .sectionBox .productListMain .rank .proNiuB a img {
+            width: 90px;
+            height: 90px; }
+        .sectionBox .productListMain .rank .proNiuB .proNiuBR {
+          float: left;
+          width: 108px;
+          height: 100px; }
+          .sectionBox .productListMain .rank .proNiuB .proNiuBR .proNiuBDescript {
+            margin: 15px 0;
+            height: 40px;
+            line-height: 20px;
+            font-size: 12px;
+            overflow: hidden; }
+          .sectionBox .productListMain .rank .proNiuB .proNiuBR span {
+            font-size: 14px;
+            color: #f60; }
+    .sectionBox .productListMain ul {
+      width: 1000px;
+      overflow: hidden;
+      float: left; }
+      .sectionBox .productListMain ul li {
+        width: 228px;
+        margin: 10px;
+        float: left;
+        border: 1px solid #e5e5e5; }
+        .sectionBox .productListMain ul li:hover {
+          box-shadow: 0 0 2px 2px #eeeeee;
+          border: 1px solid #eee; }
+        .sectionBox .productListMain ul li #goodsId {
+          display: none; }
+        .sectionBox .productListMain ul li .proImgBox img {
+          display: block;
+          width: 228px;
+          height: 228px; }
+        .sectionBox .productListMain ul li .pTextIndent {
+          padding-left: 30px; }
+        .sectionBox .productListMain ul li .proPrice {
+          height: 40px;
+          line-height: 40px;
+          font-size: 20px;
+          color: #f60; }
+        .sectionBox .productListMain ul li .descript {
+          height: 40px;
+          line-height: 20px;
+          font-size: 12px; }
+        .sectionBox .productListMain ul li .evaluate {
+          height: 36px;
+          line-height: 36px;
+          font-size: 14px; }
+          .sectionBox .productListMain ul li .evaluate span {
+            margin: 0 10px 0 3px; }
+          .sectionBox .productListMain ul li .evaluate .fontColor1 {
+            color: #626262; }
+          .sectionBox .productListMain ul li .evaluate .fontColor2 {
+            color: #f68e8f; }
+        .sectionBox .productListMain ul li .lastP {
+          height: 30px;
+          padding: 10px; }
+          .sectionBox .productListMain ul li .lastP span {
+            float: left;
+            height: 28px;
+            text-align: center;
+            line-height: 28px; }
+          .sectionBox .productListMain ul li .lastP .s1 {
+            width: 28px;
+            border: 1px solid #dadad8;
+            font-size: 12px; }
+          .sectionBox .productListMain ul li .lastP .s2 {
+            width: 14px;
+            margin: 0 2px; }
+            .sectionBox .productListMain ul li .lastP .s2 a {
+              display: block;
+              border: 1px solid #dadad8;
+              height: 12px;
+              background: url(../images/upIcon.jpg); }
+              .sectionBox .productListMain ul li .lastP .s2 a:nth-child(2) {
+                margin: 1px 0;
+                background: url(../images/downIcon.jpg); }
+          .sectionBox .productListMain ul li .lastP .s3 {
+            width: 90px;
+            background: #f60;
+            color: #fff;
+            font-size: 14px;
+            margin: 0 3px;
+            cursor: pointer; }
+          .sectionBox .productListMain ul li .lastP .s4 {
+            width: 40px;
+            border: 1px solid #dadada;
+            padding: 0 10px;
+            cursor: pointer; }
+            .sectionBox .productListMain ul li .lastP .s4 b {
+              font-weight: 100;
+              font-size: 20px; }
+            .sectionBox .productListMain ul li .lastP .s4 em {
+              font-size: 12px;
+              font-style: normal;
+              float: right; }
+            .sectionBox .productListMain ul li .lastP .s4:hover {
+              color: #f60; }
+              .sectionBox .productListMain ul li .lastP .s4:hover b {
+                animation: fontSizeChange .5s infinite; }
+
+@keyframes fontSizeChange {
+  from {
+    font-size: 12px; }
+  to {
+    font-size: 20px; } }
